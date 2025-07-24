@@ -44,7 +44,7 @@ const ACCESS_PAYLOAD = [
   "",
   {
     agentId: "1",
-    accessToken: "13-4af0925f277042217e2de66cf27fb642",
+    accessToken: "13-09fcfa90b470253dcbdb1660393aa69e",
     reconnect: false
   }
 ];
